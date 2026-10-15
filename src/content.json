@@ -1,0 +1,1853 @@
+{
+  "categories": [
+    {
+      "slug": "anime",
+      "name": "Anime",
+      "description": "Neon stories, iconic heroes and animated worlds.",
+      "image": "/images/anime.jpg"
+    },
+    {
+      "slug": "gaming",
+      "name": "Gaming",
+      "description": "Competitive worlds, adventures and player culture.",
+      "image": "/images/gaming.jpg"
+    },
+    {
+      "slug": "movies",
+      "name": "Movies",
+      "description": "Big-screen stories, trailers and cinematic universes.",
+      "image": "/images/film.jpg"
+    },
+    {
+      "slug": "tv",
+      "name": "TV Shows",
+      "description": "Binge-worthy series, characters and fan theories.",
+      "image": "/images/tv show.jpg"
+    },
+    {
+      "slug": "kpop",
+      "name": "K-Pop",
+      "description": "Music, idols, performances and global fan culture.",
+      "image": "/images/k pop.jpg"
+    },
+    {
+      "slug": "comics",
+      "name": "Comics",
+      "description": "Illustrated heroes, bold panels and timeless universes.",
+      "image": "/images/comic.jpg"
+    },
+    {
+      "slug": "manga",
+      "name": "Manga",
+      "description": "Powerful visual storytelling from page to fandom.",
+      "image": "/images/manga.jpg"
+    }
+  ],
+  "articles": [
+    {
+      "id": "anime-a1",
+      "category": "anime",
+      "title": "Crunchyroll Exclusive Chainsaw Man Collection Arrives",
+      "description": "Crunchyroll announced an exclusive Chainsaw Man collection featuring apparel and fan merchandise inspired by the anime.",
+      "type": "article",
+      "tags": [
+        "anime",
+        "featured",
+        "Collectibles"
+      ],
+      "date": "2026-08-25",
+      "popularity": 99,
+      "image": "/images/anime.jpg",
+      "source": "https://www.crunchyroll.com/news/announcements/2026/8/18/exclusive-chainsaw-man-collection-officially-drops-august-25",
+      "body": [
+        "Crunchyroll announced an exclusive Chainsaw Man collection featuring apparel and fan merchandise inspired by the anime.",
+        "Crunchyroll Exclusive Chainsaw Man Collection Arrives becomes more interesting when viewed through the wider context of anime storytelling, character arcs and visual direction. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to fans, studios and the wider anime community. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Anime content across the site."
+      ]
+    },
+    {
+      "id": "gaming-a1",
+      "category": "gaming",
+      "title": "Grand Theft Auto VI — Vice City Returns",
+      "description": "Rockstar’s next Grand Theft Auto heads back to Vice City with Jason and Lucia at the center of its new story.",
+      "type": "article",
+      "tags": [
+        "gaming",
+        "featured",
+        "Storytelling"
+      ],
+      "date": "2026-05-01",
+      "popularity": 95,
+      "image": "/images/gaming.jpg",
+      "source": "https://www.rockstargames.com/VI",
+      "body": [
+        "Rockstar’s next Grand Theft Auto heads back to Vice City with Jason and Lucia at the center of its new story.",
+        "Grand Theft Auto VI — Vice City Returns becomes more interesting when viewed through the wider context of game design, player experience and the culture around modern releases. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to players, creators and gaming communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Gaming content across the site."
+      ]
+    },
+    {
+      "id": "movies-a1",
+      "category": "movies",
+      "title": "Cinema Spotlight: Stories That Define the Big Screen",
+      "description": "A closer look at memorable movie worlds, visual storytelling and the characters that keep film fandoms talking.",
+      "type": "article",
+      "tags": [
+        "movies",
+        "featured",
+        "Storytelling",
+        "Characters"
+      ],
+      "date": "2026-06-01",
+      "popularity": 91,
+      "image": "/images/article 1 for movies.jpg",
+      "source": "https://www.marvel.com/movies",
+      "body": [
+        "A closer look at memorable movie worlds, visual storytelling and the characters that keep film fandoms talking.",
+        "Cinema Spotlight: Stories That Define the Big Screen becomes more interesting when viewed through the wider context of cinematic storytelling, performances and visual world-building. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to audiences, filmmakers and movie fandoms. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Movies content across the site."
+      ]
+    },
+    {
+      "id": "comics-a1",
+      "category": "comics",
+      "title": "Comic Book Worlds That Continue to Shape Modern Fandom",
+      "description": "From legendary heroes to evolving universes, comic storytelling continues to inspire new generations through bold characters, dramatic conflicts and imaginative worlds.",
+      "type": "article",
+      "tags": [
+        "Comics",
+        "Fandom",
+        "Storytelling",
+        "Characters"
+      ],
+      "date": "2026-09-01",
+      "popularity": 79,
+      "image": "/images/ARTICLE 1 FOR COMIC.jpg",
+      "source": "https://www.marvel.com/comics/series",
+      "body": [
+        "From legendary heroes to evolving universes, comic storytelling continues to inspire new generations through bold characters, dramatic conflicts and imaginative worlds.",
+        "Comic Book Worlds That Continue to Shape Modern Fandom becomes more interesting when viewed through the wider context of illustration, serialized storytelling and evolving hero mythologies. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to readers, creators and comic communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Comics content across the site."
+      ]
+    },
+    {
+      "id": "anime-a2",
+      "category": "anime",
+      "title": "Anime Spotlight: What Fans Are Talking About",
+      "description": "Explore anime culture, creators, fan moments and the stories shaping the community.",
+      "type": "article",
+      "tags": [
+        "Anime",
+        "news",
+        "Spotlight"
+      ],
+      "date": "2026-01-12",
+      "popularity": 98,
+      "image": "/images/article 2.jpg",
+      "body": [
+        "Explore anime culture, creators, fan moments and the stories shaping the community.",
+        "Anime Spotlight: What Fans Are Talking About becomes more interesting when viewed through the wider context of anime storytelling, character arcs and visual direction. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to fans, studios and the wider anime community. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Anime content across the site."
+      ]
+    },
+    {
+      "id": "anime-a3",
+      "category": "anime",
+      "title": "Anime Spotlight: A New Era Begins",
+      "description": "Explore anime culture, creators, fan moments and the stories shaping the community.",
+      "type": "article",
+      "tags": [
+        "Anime",
+        "news",
+        "Spotlight"
+      ],
+      "date": "2026-01-13",
+      "popularity": 97,
+      "image": "/images/article 3.jpg",
+      "body": [
+        "Explore anime culture, creators, fan moments and the stories shaping the community.",
+        "Anime Spotlight: A New Era Begins becomes more interesting when viewed through the wider context of anime storytelling, character arcs and visual direction. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to fans, studios and the wider anime community. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Anime content across the site."
+      ]
+    },
+    {
+      "id": "gaming-a2",
+      "category": "gaming",
+      "title": "Inside the Energy of Competitive Gaming Events",
+      "description": "Packed arenas, live matchups and passionate communities have turned competitive gaming into a spectator experience where players and fans share the same electric atmosphere.",
+      "type": "article",
+      "tags": [
+        "Gaming",
+        "Esports",
+        "Events",
+        "Spotlight"
+      ],
+      "date": "2026-02-12",
+      "popularity": 94,
+      "image": "/images/gaming event article 2.jpg",
+      "body": [
+        "Packed arenas, live matchups and passionate communities have turned competitive gaming into a spectator experience where players and fans share the same electric atmosphere.",
+        "Inside the Energy of Competitive Gaming Events becomes more interesting when viewed through the wider context of game design, player experience and the culture around modern releases. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to players, creators and gaming communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Gaming content across the site."
+      ]
+    },
+    {
+      "id": "gaming-a3",
+      "category": "gaming",
+      "title": "Gaming Spotlight: A New Era Begins",
+      "description": "Explore gaming culture, creators, fan moments and the stories shaping the community.",
+      "type": "article",
+      "tags": [
+        "Gaming",
+        "news",
+        "Spotlight"
+      ],
+      "date": "2026-02-13",
+      "popularity": 93,
+      "image": "/images/gaming event article 2.jpg",
+      "body": [
+        "Explore gaming culture, creators, fan moments and the stories shaping the community.",
+        "Gaming Spotlight: A New Era Begins becomes more interesting when viewed through the wider context of game design, player experience and the culture around modern releases. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to players, creators and gaming communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Gaming content across the site."
+      ]
+    },
+    {
+      "id": "movies-a2",
+      "category": "movies",
+      "title": "Movie Fandom Beyond the Screen",
+      "description": "From conventions to cosplay and fan communities, movie culture continues long after the credits roll.",
+      "type": "article",
+      "tags": [
+        "Movies",
+        "news",
+        "Spotlight"
+      ],
+      "date": "2026-03-12",
+      "popularity": 90,
+      "image": "/images/comic con for article.jpg",
+      "body": [
+        "From conventions to cosplay and fan communities, movie culture continues long after the credits roll.",
+        "Movie Fandom Beyond the Screen becomes more interesting when viewed through the wider context of cinematic storytelling, performances and visual world-building. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to audiences, filmmakers and movie fandoms. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Movies content across the site."
+      ]
+    },
+    {
+      "id": "movies-a3",
+      "category": "movies",
+      "title": "Moonlight and the Power of Character-Driven Cinema",
+      "description": "A spotlight on intimate filmmaking, identity and the emotional storytelling that gives character-led films lasting impact.",
+      "type": "article",
+      "tags": [
+        "Movies",
+        "news",
+        "Storytelling",
+        "Characters"
+      ],
+      "date": "2026-03-13",
+      "popularity": 89,
+      "image": "/images/moon light.jpg",
+      "body": [
+        "A spotlight on intimate filmmaking, identity and the emotional storytelling that gives character-led films lasting impact.",
+        "Moonlight and the Power of Character-Driven Cinema becomes more interesting when viewed through the wider context of cinematic storytelling, performances and visual world-building. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to audiences, filmmakers and movie fandoms. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Movies content across the site."
+      ]
+    },
+    {
+      "id": "tv-a1",
+      "category": "tv",
+      "title": "Breaking Bad: Why Walter White Still Defines Prestige Television",
+      "description": "A closer look at the transformation, tension and character-driven storytelling that made Breaking Bad one of television’s most discussed crime dramas.",
+      "type": "article",
+      "tags": [
+        "TV Shows",
+        "featured",
+        "Storytelling",
+        "Characters"
+      ],
+      "date": "2026-04-11",
+      "popularity": 87,
+      "image": "/images/article image for tv show.jpg",
+      "body": [
+        "A closer look at the transformation, tension and character-driven storytelling that made Breaking Bad one of television’s most discussed crime dramas.",
+        "Breaking Bad: Why Walter White Still Defines Prestige Television becomes more interesting when viewed through the wider context of episodic storytelling, memorable performances and long-form character development. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to viewers, creators and television fandoms. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Tv content across the site."
+      ]
+    },
+    {
+      "id": "tv-a2",
+      "category": "tv",
+      "title": "Sherlock: The Modern Detective Who Rewired Classic Mystery",
+      "description": "How Sherlock brought fast-paced deduction, visual storytelling and a modern London setting to Arthur Conan Doyle’s legendary detective.",
+      "type": "article",
+      "tags": [
+        "TV Shows",
+        "news",
+        "Storytelling",
+        "Art"
+      ],
+      "date": "2026-04-12",
+      "popularity": 86,
+      "image": "/images/article pic for tv show.jpg",
+      "body": [
+        "How Sherlock brought fast-paced deduction, visual storytelling and a modern London setting to Arthur Conan Doyle’s legendary detective.",
+        "Sherlock: The Modern Detective Who Rewired Classic Mystery becomes more interesting when viewed through the wider context of episodic storytelling, memorable performances and long-form character development. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to viewers, creators and television fandoms. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Tv content across the site."
+      ]
+    },
+    {
+      "id": "tv-a3",
+      "category": "tv",
+      "title": "TV Fandom at Comic Con: Where Shows Meet Their Communities",
+      "description": "From cast panels and reveals to cosplay and fan meetups, comic conventions have become a major gathering place for television fandoms.",
+      "type": "article",
+      "tags": [
+        "TV Shows",
+        "news",
+        "Comics",
+        "TV"
+      ],
+      "date": "2026-04-13",
+      "popularity": 85,
+      "image": "/images/comic con for article.jpg",
+      "body": [
+        "From cast panels and reveals to cosplay and fan meetups, comic conventions have become a major gathering place for television fandoms.",
+        "TV Fandom at Comic Con: Where Shows Meet Their Communities becomes more interesting when viewed through the wider context of episodic storytelling, memorable performances and long-form character development. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to viewers, creators and television fandoms. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Tv content across the site."
+      ]
+    },
+    {
+      "id": "kpop-a1",
+      "category": "kpop",
+      "title": "K-Pop Global Spotlight: Artists Shaping the Scene",
+      "description": "A closer look at the artists, performances and fan culture driving K-Pop across the world.",
+      "type": "article",
+      "tags": [
+        "K-Pop",
+        "featured",
+        "Art"
+      ],
+      "date": "2026-05-11",
+      "popularity": 83,
+      "image": "/images/k pop article.jpg",
+      "body": [
+        "A closer look at the artists, performances and fan culture driving K-Pop across the world.",
+        "K-Pop Global Spotlight: Artists Shaping the Scene becomes more interesting when viewed through the wider context of music, performance, visual concepts and fan culture. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to artists, audiences and global K-Pop communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Kpop content across the site."
+      ]
+    },
+    {
+      "id": "kpop-a2",
+      "category": "kpop",
+      "title": "K-Pop Culture Beyond the Stage",
+      "description": "From fashion and choreography to online fandoms, K-Pop continues to influence global pop culture.",
+      "type": "article",
+      "tags": [
+        "K-Pop",
+        "news",
+        "Spotlight"
+      ],
+      "date": "2026-05-12",
+      "popularity": 82,
+      "image": "/images/k pop article 2.jpg",
+      "body": [
+        "From fashion and choreography to online fandoms, K-Pop continues to influence global pop culture.",
+        "K-Pop Culture Beyond the Stage becomes more interesting when viewed through the wider context of music, performance, visual concepts and fan culture. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to artists, audiences and global K-Pop communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Kpop content across the site."
+      ]
+    },
+    {
+      "id": "kpop-a3",
+      "category": "kpop",
+      "title": "The New Generation of K-Pop Icons",
+      "description": "Meet the performers whose music, style and stage presence continue to expand K-Pop’s worldwide audience.",
+      "type": "article",
+      "tags": [
+        "K-Pop",
+        "news",
+        "Music"
+      ],
+      "date": "2026-05-13",
+      "popularity": 81,
+      "image": "/images/k pop.jpg",
+      "body": [
+        "Meet the performers whose music, style and stage presence continue to expand K-Pop’s worldwide audience.",
+        "The New Generation of K-Pop Icons becomes more interesting when viewed through the wider context of music, performance, visual concepts and fan culture. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to artists, audiences and global K-Pop communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Kpop content across the site."
+      ]
+    },
+    {
+      "id": "comics-a2",
+      "category": "comics",
+      "title": "Inside Comic Culture: Heroes, Creators and Fan Communities",
+      "description": "Comic culture brings artists, writers and fans together around unforgettable characters, collectible art and stories that grow far beyond the printed page.",
+      "type": "article",
+      "tags": [
+        "Comics",
+        "Fandom",
+        "Characters",
+        "Art"
+      ],
+      "date": "2026-06-12",
+      "popularity": 78,
+      "image": "/images/ARTICLE 2 FOR COMIC.jpg",
+      "body": [
+        "Comic culture brings artists, writers and fans together around unforgettable characters, collectible art and stories that grow far beyond the printed page.",
+        "Inside Comic Culture: Heroes, Creators and Fan Communities becomes more interesting when viewed through the wider context of illustration, serialized storytelling and evolving hero mythologies. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to readers, creators and comic communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Comics content across the site."
+      ]
+    },
+    {
+      "id": "comics-a3",
+      "category": "comics",
+      "title": "Why Comic Con Events Remain a Celebration of Fandom",
+      "description": "Comic conventions turn fandom into a shared experience with creator panels, cosplay, collectibles and communities celebrating comics and pop culture together.",
+      "type": "article",
+      "tags": [
+        "Comics",
+        "Fandom",
+        "Events",
+        "Collectibles"
+      ],
+      "date": "2026-06-13",
+      "popularity": 77,
+      "image": "/images/ARTICLE 3 FOR COMIC.jpg",
+      "body": [
+        "Comic conventions turn fandom into a shared experience with creator panels, cosplay, collectibles and communities celebrating comics and pop culture together.",
+        "Why Comic Con Events Remain a Celebration of Fandom becomes more interesting when viewed through the wider context of illustration, serialized storytelling and evolving hero mythologies. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to readers, creators and comic communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Comics content across the site."
+      ]
+    },
+    {
+      "id": "manga-a1",
+      "category": "manga",
+      "title": "The Art of Manga: Storytelling in Black and White",
+      "description": "From expressive linework to dramatic panel composition, manga turns monochrome artwork into fast, emotional visual storytelling.",
+      "type": "article",
+      "tags": [
+        "Manga",
+        "Art",
+        "Featured",
+        "Storytelling"
+      ],
+      "date": "2026-07-11",
+      "popularity": 75,
+      "image": "/images/ARTICLE 1 FOR MANGA.jpg",
+      "body": [
+        "From expressive linework to dramatic panel composition, manga turns monochrome artwork into fast, emotional visual storytelling.",
+        "The Art of Manga: Storytelling in Black and White becomes more interesting when viewed through the wider context of panel composition, character writing and long-form visual storytelling. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to readers, artists and manga communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Manga content across the site."
+      ]
+    },
+    {
+      "id": "manga-a2",
+      "category": "manga",
+      "title": "Why Manga Panels Feel So Cinematic",
+      "description": "Explore how framing, speed lines, contrast and page rhythm guide the reader through action, emotion and quiet character moments.",
+      "type": "article",
+      "tags": [
+        "Manga",
+        "Panels",
+        "Storytelling",
+        "Characters",
+        "Movies"
+      ],
+      "date": "2026-07-12",
+      "popularity": 74,
+      "image": "/images/ARTICLE 2 FOR MANGA.jpg",
+      "body": [
+        "Explore how framing, speed lines, contrast and page rhythm guide the reader through action, emotion and quiet character moments.",
+        "Why Manga Panels Feel So Cinematic becomes more interesting when viewed through the wider context of panel composition, character writing and long-form visual storytelling. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to readers, artists and manga communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Manga content across the site."
+      ]
+    },
+    {
+      "id": "manga-a3",
+      "category": "manga",
+      "title": "Manga Spotlight: A New Era Begins",
+      "description": "Explore manga culture, creators, fan moments and the stories shaping the community.",
+      "type": "article",
+      "tags": [
+        "Manga",
+        "news",
+        "Spotlight"
+      ],
+      "date": "2026-07-13",
+      "popularity": 73,
+      "image": "/images/manga.jpg",
+      "body": [
+        "Explore manga culture, creators, fan moments and the stories shaping the community.",
+        "Manga Spotlight: A New Era Begins becomes more interesting when viewed through the wider context of panel composition, character writing and long-form visual storytelling. Beyond the headline idea, the subject connects with the details that make a fandom memorable: creative choices, recognizable themes and the way audiences respond to them over time.",
+        "The discussion also shows why this topic matters to readers, artists and manga communities. Small details can shape how a release, character, performance or creative trend is received, while community reactions often give the subject a life beyond its original appearance.",
+        "For FandomVerse readers, this feature offers a closer look without changing the quick summary shown on the article card. The full view is designed to provide extra context, a clearer sense of the topic and enough detail to continue exploring related Manga content across the site."
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "anime-c1",
+      "category": "anime",
+      "name": "Naruto Uzumaki",
+      "series": "Naruto",
+      "bio": "A determined ninja from Konohagakure who dreams of earning recognition and becoming Hokage.",
+      "traits": [
+        "Determined",
+        "Loyal",
+        "Optimistic"
+      ],
+      "image": "/images/naruto.jpg"
+    },
+    {
+      "id": "anime-c2",
+      "category": "anime",
+      "name": "Monkey D. Luffy",
+      "series": "One Piece",
+      "bio": "Captain of the Straw Hat Pirates, driven by freedom, adventure and his dream of becoming the Pirate King.",
+      "traits": [
+        "Fearless",
+        "Free-spirited",
+        "Loyal"
+      ],
+      "image": "/images/monkey di lofi Character.webp"
+    },
+    {
+      "id": "anime-c3",
+      "category": "anime",
+      "name": "Goku",
+      "series": "Dragon Ball",
+      "bio": "A Saiyan martial artist known for his love of training, powerful transformations and instinct to protect his friends.",
+      "traits": [
+        "Energetic",
+        "Brave",
+        "Competitive"
+      ],
+      "image": "/images/goku.jpg"
+    },
+    {
+      "id": "anime-c4",
+      "category": "anime",
+      "name": "Levi Ackerman",
+      "series": "Attack on Titan",
+      "bio": "An elite Survey Corps soldier renowned for his exceptional combat skill, discipline and calm under pressure.",
+      "traits": [
+        "Disciplined",
+        "Skilled",
+        "Stoic"
+      ],
+      "image": "/images/Levi Ackerman.webp"
+    },
+    {
+      "id": "anime-c5",
+      "category": "anime",
+      "name": "Lelouch Lamperouge",
+      "series": "Code Geass",
+      "bio": "A brilliant strategist who uses the power of Geass while pursuing a radical plan to reshape his world.",
+      "traits": [
+        "Strategic",
+        "Charismatic",
+        "Complex"
+      ],
+      "image": "/images/Lelouch Lamperouge.jpg"
+    },
+    {
+      "id": "gaming-c1",
+      "category": "gaming",
+      "name": "Mario",
+      "series": "Super Mario",
+      "bio": "Nintendo’s iconic hero is known for his upbeat courage, quick reflexes and countless adventures across the Mushroom Kingdom.",
+      "traits": [
+        "Heroic",
+        "Optimistic",
+        "Adventurous"
+      ],
+      "image": "/images/mario.jpg"
+    },
+    {
+      "id": "gaming-c2",
+      "category": "gaming",
+      "name": "Lara Croft",
+      "series": "Tomb Raider",
+      "bio": "An expert archaeologist and explorer who combines intelligence, athleticism and determination while uncovering ancient mysteries around the world.",
+      "traits": [
+        "Intelligent",
+        "Fearless",
+        "Resourceful"
+      ],
+      "image": "/images/Lara Croft.jpg"
+    },
+    {
+      "id": "gaming-c3",
+      "category": "gaming",
+      "name": "Tommy Vercetti",
+      "series": "Grand Theft Auto: Vice City",
+      "bio": "A central figure in Vice City’s criminal underworld, Tommy is ambitious, decisive and driven to build his influence across the city.",
+      "traits": [
+        "Ambitious",
+        "Confident",
+        "Strategic"
+      ],
+      "image": "/images/tommy vercetti.jpg"
+    },
+    {
+      "id": "gaming-c4",
+      "category": "gaming",
+      "name": "Master Chief",
+      "series": "Halo",
+      "bio": "A legendary Spartan supersoldier whose discipline, resilience and battlefield skill make him one of humanity’s most recognizable defenders.",
+      "traits": [
+        "Disciplined",
+        "Resilient",
+        "Tactical"
+      ],
+      "image": "/images/master chief.jpg"
+    },
+    {
+      "id": "gaming-c5",
+      "category": "gaming",
+      "name": "Kratos",
+      "series": "God of War",
+      "bio": "A formidable warrior shaped by conflict and loss, Kratos evolves from a rage-driven fighter into a protective father confronting gods, monsters and his own past.",
+      "traits": [
+        "Powerful",
+        "Determined",
+        "Protective"
+      ],
+      "image": "/images/kratos.jpg"
+    },
+    {
+      "id": "movies-c1",
+      "category": "movies",
+      "name": "Indiana Jones",
+      "series": "Indiana Jones",
+      "bio": "An adventurous archaeologist known for daring expeditions, quick thinking and an unmistakable sense of determination.",
+      "traits": [
+        "Adventurous",
+        "Resourceful",
+        "Brave"
+      ],
+      "image": "/images/Indiana Jones.jpg"
+    },
+    {
+      "id": "movies-c2",
+      "category": "movies",
+      "name": "James Bond",
+      "series": "James Bond 007",
+      "bio": "A highly skilled secret agent recognised for composure under pressure, sharp instincts and globe-spanning missions.",
+      "traits": [
+        "Confident",
+        "Strategic",
+        "Skilled"
+      ],
+      "image": "/images/james bond.jpg"
+    },
+    {
+      "id": "movies-c3",
+      "category": "movies",
+      "name": "Neo",
+      "series": "The Matrix",
+      "bio": "A hacker who discovers the truth behind his reality and grows into a determined figure at the centre of humanity’s fight for freedom.",
+      "traits": [
+        "Focused",
+        "Courageous",
+        "Determined"
+      ],
+      "image": "/images/neo.jpg"
+    },
+    {
+      "id": "movies-c4",
+      "category": "movies",
+      "name": "Tyler Durden & The Narrator",
+      "series": "Fight Club",
+      "bio": "Two central figures whose intertwined perspectives drive the film’s exploration of identity, rebellion and control.",
+      "traits": [
+        "Rebellious",
+        "Complex",
+        "Unpredictable"
+      ],
+      "image": "/images/tyler durden and narrator.jpg"
+    },
+    {
+      "id": "movies-c5",
+      "category": "movies",
+      "name": "Moonlight",
+      "series": "Moonlight",
+      "bio": "A character-focused representation of the film’s deeply personal coming-of-age story and its exploration of identity and connection.",
+      "traits": [
+        "Reflective",
+        "Sensitive",
+        "Resilient"
+      ],
+      "image": "/images/moon light.jpg"
+    },
+    {
+      "id": "tv-c1",
+      "category": "tv",
+      "name": "Walter White",
+      "series": "Breaking Bad",
+      "bio": "A chemistry teacher whose choices transform him into the feared Heisenberg, driving one of television’s most intense character arcs.",
+      "traits": [
+        "Intelligent",
+        "Strategic",
+        "Ambitious"
+      ],
+      "image": "/images/walter white for tv show.jpg"
+    },
+    {
+      "id": "tv-c2",
+      "category": "tv",
+      "name": "Jon Snow",
+      "series": "Game of Thrones",
+      "bio": "A principled warrior of the Night’s Watch whose identity, loyalty and leadership place him at the center of Westeros’s greatest conflicts.",
+      "traits": [
+        "Honorable",
+        "Brave",
+        "Loyal"
+      ],
+      "image": "/images/Jon Snow for tv show.jpg"
+    },
+    {
+      "id": "tv-c3",
+      "category": "tv",
+      "name": "Tyrion Lannister",
+      "series": "Game of Thrones",
+      "bio": "A sharp-witted political strategist who survives dangerous power struggles through intelligence, humor and an ability to read people.",
+      "traits": [
+        "Witty",
+        "Clever",
+        "Resilient"
+      ],
+      "image": "/images/Tyrion Lannister for tv show.jpg"
+    },
+    {
+      "id": "tv-c4",
+      "category": "tv",
+      "name": "Patrick Jane",
+      "series": "The Mentalist",
+      "bio": "A highly observant consultant who uses psychology, deduction and showmanship to help solve crimes while pursuing a deeply personal mission.",
+      "traits": [
+        "Observant",
+        "Charismatic",
+        "Clever"
+      ],
+      "image": "/images/Patrick Jane for tv show.jpg"
+    },
+    {
+      "id": "tv-c5",
+      "category": "tv",
+      "name": "Sherlock Holmes",
+      "series": "Sherlock",
+      "bio": "A brilliant consulting detective whose extraordinary powers of observation and deduction turn complex mysteries into solvable puzzles.",
+      "traits": [
+        "Analytical",
+        "Observant",
+        "Eccentric"
+      ],
+      "image": "/images/Sherlock Holmes for tv show.jpg"
+    },
+    {
+      "id": "kpop-c1",
+      "category": "kpop",
+      "name": "Jungkook",
+      "series": "BTS",
+      "bio": "A vocalist and performer known for polished live stages, versatile pop vocals and a strong solo presence.",
+      "traits": [
+        "Vocalist",
+        "Performer",
+        "Versatile"
+      ],
+      "image": "/images/Jungkook fot k pop.webp"
+    },
+    {
+      "id": "kpop-c2",
+      "category": "kpop",
+      "name": "Jimin",
+      "series": "BTS",
+      "bio": "A singer and dancer recognized for expressive choreography, distinctive vocals and elegant stage performance.",
+      "traits": [
+        "Dancer",
+        "Vocalist",
+        "Expressive"
+      ],
+      "image": "/images/Jimin for k pop.webp"
+    },
+    {
+      "id": "kpop-c3",
+      "category": "kpop",
+      "name": "Jennie",
+      "series": "BLACKPINK",
+      "bio": "A rapper, vocalist and performer known for confident stage presence and a major influence across music and fashion.",
+      "traits": [
+        "Rapper",
+        "Vocalist",
+        "Charismatic"
+      ],
+      "image": "/images/Jennie for k pop.webp"
+    },
+    {
+      "id": "kpop-c4",
+      "category": "kpop",
+      "name": "Lisa",
+      "series": "BLACKPINK",
+      "bio": "A rapper and dancer celebrated for precise choreography, energetic performances and an international solo career.",
+      "traits": [
+        "Dancer",
+        "Rapper",
+        "Energetic"
+      ],
+      "image": "/images/Lisa for k pop.webp"
+    },
+    {
+      "id": "kpop-c5",
+      "category": "kpop",
+      "name": "G-Dragon",
+      "series": "BIGBANG",
+      "bio": "A rapper, songwriter and producer widely associated with BIGBANG and a distinctive creative influence on K-Pop style and performance.",
+      "traits": [
+        "Rapper",
+        "Songwriter",
+        "Creative"
+      ],
+      "image": "/images/G-Dragon for k pop.webp"
+    },
+    {
+      "id": "comics-c1",
+      "category": "comics",
+      "name": "Batman",
+      "series": "DC Comics",
+      "bio": "Bruce Wayne protects Gotham as Batman, relying on detective skill, strategy and relentless determination rather than superhuman powers.",
+      "traits": [
+        "Strategic",
+        "Fearless",
+        "Detective"
+      ],
+      "image": "/images/BATMAN FOR COMIC.webp"
+    },
+    {
+      "id": "comics-c2",
+      "category": "comics",
+      "name": "Superman",
+      "series": "DC Comics",
+      "bio": "Clark Kent is Superman, a Kryptonian hero whose extraordinary abilities are guided by compassion, hope and a strong sense of justice.",
+      "traits": [
+        "Hopeful",
+        "Powerful",
+        "Compassionate"
+      ],
+      "image": "/images/SUPERMAN FOR COMIC.jpg"
+    },
+    {
+      "id": "comics-c3",
+      "category": "comics",
+      "name": "The Flash",
+      "series": "DC Comics",
+      "bio": "The Flash is a speedster hero known for incredible velocity, quick thinking and a determination to protect others across impossible odds.",
+      "traits": [
+        "Fast",
+        "Optimistic",
+        "Courageous"
+      ],
+      "image": "/images/FLASH FOR COMIC.webp"
+    },
+    {
+      "id": "comics-c4",
+      "category": "comics",
+      "name": "Captain America",
+      "series": "Marvel Comics",
+      "bio": "Steve Rogers becomes Captain America, a principled hero recognized for leadership, courage and an unwavering commitment to protecting others.",
+      "traits": [
+        "Leader",
+        "Brave",
+        "Principled"
+      ],
+      "image": "/images/CAPTIAN AMERICA FOR COMIC.webp"
+    },
+    {
+      "id": "comics-c5",
+      "category": "comics",
+      "name": "Comic Hero Spotlight",
+      "series": "Comic Universe",
+      "bio": "A comic-inspired hero profile celebrating the larger-than-life action, visual storytelling and heroic spirit at the heart of comic fandom.",
+      "traits": [
+        "Bold",
+        "Heroic",
+        "Determined"
+      ],
+      "image": "/images/FOR COMIC.jpg"
+    },
+    {
+      "id": "manga-c1",
+      "category": "manga",
+      "name": "Eren Yeager",
+      "series": "Attack on Titan",
+      "bio": "Driven by an intense desire for freedom, Eren becomes one of manga’s most conflicted protagonists as his choices reshape the world around him.",
+      "traits": [
+        "Determined",
+        "Intense",
+        "Rebellious"
+      ],
+      "image": "/images/Eren Yeager FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-c2",
+      "category": "manga",
+      "name": "Gon Freecss",
+      "series": "Hunter × Hunter",
+      "bio": "An adventurous young Hunter whose optimism, loyalty and extraordinary determination push him through increasingly dangerous challenges.",
+      "traits": [
+        "Optimistic",
+        "Loyal",
+        "Determined"
+      ],
+      "image": "/images/Gon Freecss FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-c3",
+      "category": "manga",
+      "name": "Ichigo Kurosaki",
+      "series": "Bleach",
+      "bio": "A substitute Soul Reaper who protects the living and the spirit world while learning to master the many powers within him.",
+      "traits": [
+        "Protective",
+        "Brave",
+        "Resilient"
+      ],
+      "image": "/images/Ichigo Kurosaki FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-c4",
+      "category": "manga",
+      "name": "Light Yagami",
+      "series": "Death Note",
+      "bio": "A brilliant student whose discovery of the Death Note leads him into a tense battle of strategy, morality and control.",
+      "traits": [
+        "Intelligent",
+        "Strategic",
+        "Ambitious"
+      ],
+      "image": "/images/Light Yagami FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-c5",
+      "category": "manga",
+      "name": "Saitama",
+      "series": "One-Punch Man",
+      "bio": "A hero whose overwhelming strength ends most battles instantly, leaving him searching for a challenge that can make heroism exciting again.",
+      "traits": [
+        "Powerful",
+        "Calm",
+        "Unassuming"
+      ],
+      "image": "/images/SATAIMA FOR MANGA.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": "event-anime-neo-tokyo",
+      "category": "anime",
+      "title": "Neo Tokyo Anime Festival 2026",
+      "date": "2026-11-14",
+      "location": "Tokyo, Japan",
+      "description": "A two-day anime celebration featuring cosplay showcases, voice-actor panels, fan art, screenings and creator meetups.",
+      "image": "/images/anime.jpg",
+      "popularity": 96
+    },
+    {
+      "id": "event-anime-cosplay-night",
+      "category": "anime",
+      "title": "Anime Cosplay Night 2026",
+      "date": "2026-10-17",
+      "location": "Karachi, Pakistan",
+      "description": "An evening fan meetup featuring anime cosplay, trivia, themed photography, artist stalls and community activities.",
+      "image": "/images/comic con for article.jpg",
+      "popularity": 82
+    },
+    {
+      "id": "event-anime-summer-screen",
+      "category": "anime",
+      "title": "Anime Summer Screening Day 2026",
+      "date": "2026-07-19",
+      "location": "Singapore",
+      "description": "A completed summer anime gathering with screenings, cosplay photography, fan quizzes and artist-community activities.",
+      "image": "/images/article 2.jpg",
+      "popularity": 78
+    },
+    {
+      "id": "event-gaming-next-level",
+      "category": "gaming",
+      "title": "Next Level Gaming Expo 2026",
+      "date": "2026-12-05",
+      "location": "Los Angeles, USA",
+      "description": "A gaming expo built around playable demos, esports showmatches, indie developers, community tournaments and creator sessions.",
+      "image": "/images/gaming.jpg",
+      "popularity": 94
+    },
+    {
+      "id": "event-gaming-arena-clash",
+      "category": "gaming",
+      "title": "Arena Clash Community Cup 2026",
+      "date": "2026-10-31",
+      "location": "Dubai, UAE",
+      "description": "A community gaming event with competitive brackets, multiplayer challenges, streamer sessions and a retro gaming zone.",
+      "image": "/images/gaming event article 2.jpg",
+      "popularity": 87
+    },
+    {
+      "id": "event-gaming-mcm-birmingham",
+      "category": "gaming",
+      "title": "MCM Birmingham Gaming Weekend 2026",
+      "date": "2026-08-07",
+      "location": "NEC Birmingham, United Kingdom",
+      "description": "A completed MCM weekend featuring gaming areas alongside creators, cosplay, panels and wider pop-culture programming.",
+      "image": "/images/gta 6 backpack for merchandice.jpg",
+      "popularity": 92,
+      "source": "https://www.mcmcomiccon.com/global/en-us/blog/comics/mcm-comic-con-2026-dates.html"
+    },
+    {
+      "id": "event-movies-cinematic-universe",
+      "category": "movies",
+      "title": "Cinematic Universe Fan Fest 2026",
+      "date": "2026-11-21",
+      "location": "Los Angeles, USA",
+      "description": "A movie-fandom weekend with screenings, costume showcases, collector displays, fan panels and behind-the-scenes discussions.",
+      "image": "/images/film.jpg",
+      "popularity": 91
+    },
+    {
+      "id": "event-movies-midnight-screen",
+      "category": "movies",
+      "title": "Midnight Movie Marathon 2026",
+      "date": "2026-10-30",
+      "location": "London, United Kingdom",
+      "description": "A themed movie marathon combining cult favorites, fan discussions, costume moments and late-night screenings.",
+      "image": "/images/article 1 for movies.jpg",
+      "popularity": 84
+    },
+    {
+      "id": "event-movies-retro-rewind",
+      "category": "movies",
+      "title": "Retro Cinema Rewind 2026",
+      "date": "2026-06-13",
+      "location": "New York, USA",
+      "description": "A completed fan screening event celebrating classic cinema with themed discussions, poster displays and collector showcases.",
+      "image": "/images/article 3.jpg",
+      "popularity": 76
+    },
+    {
+      "id": "event-tv-mcm-london",
+      "category": "tv",
+      "title": "MCM Comic Con London 2026",
+      "date": "2026-10-23",
+      "location": "ExCeL London, United Kingdom",
+      "description": "A major pop-culture convention featuring TV and film guests, panels, creators, cosplay, gaming and fan activities.",
+      "image": "/images/tv show.jpg",
+      "popularity": 99,
+      "source": "https://www.mcmcomiccon.com/london/en-us.html"
+    },
+    {
+      "id": "event-tv-series-fandom",
+      "category": "tv",
+      "title": "Series Fandom Weekend 2026",
+      "date": "2026-11-28",
+      "location": "Toronto, Canada",
+      "description": "A TV fandom weekend featuring episode discussions, character panels, trivia, cosplay and fan-community sessions.",
+      "image": "/images/article image for tv show.jpg",
+      "popularity": 88
+    },
+    {
+      "id": "event-tv-binge-night",
+      "category": "tv",
+      "title": "TV Binge & Trivia Night 2026",
+      "date": "2026-08-22",
+      "location": "Manchester, United Kingdom",
+      "description": "A completed community night built around television trivia, episode discussions, themed games and fan meetups.",
+      "image": "/images/article pic for tv show.jpg",
+      "popularity": 75
+    },
+    {
+      "id": "event-kpop-seoul-wave",
+      "category": "kpop",
+      "title": "Seoul Wave K-Pop Festival 2026",
+      "date": "2026-11-07",
+      "location": "Seoul, South Korea",
+      "description": "A fan-focused K-Pop gathering with dance stages, cover performances, fan zones, music activities and community meetups.",
+      "image": "/images/k pop.jpg",
+      "popularity": 95
+    },
+    {
+      "id": "event-kpop-dance-live",
+      "category": "kpop",
+      "title": "K-Pop Dance & Fan Live 2026",
+      "date": "2026-10-24",
+      "location": "Bangkok, Thailand",
+      "description": "A high-energy fan event with dance covers, random-play dance, fan projects, photo zones and K-Pop community performances.",
+      "image": "/images/k pop article.jpg",
+      "popularity": 90
+    },
+    {
+      "id": "event-kpop-summer-stage",
+      "category": "kpop",
+      "title": "K-Pop Summer Stage 2026",
+      "date": "2026-07-25",
+      "location": "Manila, Philippines",
+      "description": "A completed summer fan stage with cover groups, dance challenges, music games and community photo sessions.",
+      "image": "/images/k pop article 2.jpg",
+      "popularity": 85
+    },
+    {
+      "id": "event-comics-nycc",
+      "category": "comics",
+      "title": "New York Comic Con 2026",
+      "date": "2026-10-08",
+      "location": "Javits Center, New York City",
+      "description": "A major pop-culture convention bringing together comics, creators, cosplay, collectibles, panels, gaming and entertainment fandoms.",
+      "image": "/images/comic.jpg",
+      "popularity": 100,
+      "source": "https://www.newyorkcomiccon.com/"
+    },
+    {
+      "id": "event-comics-ink-panel",
+      "category": "comics",
+      "title": "Ink & Panels Comic Festival 2026",
+      "date": "2026-11-15",
+      "location": "Chicago, USA",
+      "description": "A comics festival celebrating artists, writers and readers through creator talks, sketch sessions, indie books and cosplay.",
+      "image": "/images/ARTICLE 1 FOR COMIC.jpg",
+      "popularity": 89
+    },
+    {
+      "id": "event-comics-creator-day",
+      "category": "comics",
+      "title": "Indie Comics Creator Day 2026",
+      "date": "2026-05-16",
+      "location": "Seattle, USA",
+      "description": "A completed creator-focused comics day with independent artists, portfolio tables, sketch sessions and reader meetups.",
+      "image": "/images/ARTICLE 2 FOR COMIC.jpg",
+      "popularity": 80
+    },
+    {
+      "id": "event-manga-manga-world",
+      "category": "manga",
+      "title": "Manga World Creator Fair 2026",
+      "date": "2026-12-12",
+      "location": "Osaka, Japan",
+      "description": "A manga-focused creator fair with artist tables, illustration showcases, drawing sessions, fan meetups and collector displays.",
+      "image": "/images/manga.jpg",
+      "popularity": 93
+    },
+    {
+      "id": "event-manga-ink-lab",
+      "category": "manga",
+      "title": "Manga Ink Lab & Fan Meetup 2026",
+      "date": "2026-10-18",
+      "location": "Singapore",
+      "description": "A manga community event featuring live drawing, panel-layout workshops, fan art displays and creator networking.",
+      "image": "/images/ARTICLE 1 FOR MANGA.jpg",
+      "popularity": 86
+    },
+    {
+      "id": "event-manga-spring-market",
+      "category": "manga",
+      "title": "Spring Manga Art Market 2026",
+      "date": "2026-04-12",
+      "location": "Tokyo, Japan",
+      "description": "A completed manga art market featuring illustration booths, self-published works, drawing demonstrations and fan exchanges.",
+      "image": "/images/ARTICLE 2 FOR MANGA.jpg",
+      "popularity": 83
+    }
+  ],
+  "merchandise": [
+    {
+      "id": "merch-1",
+      "category": "anime",
+      "name": "Anime Streetwear Graphic Hoodie",
+      "price": 44.99,
+      "description": "A bold black anime-inspired hoodie with oversized character artwork and neon-style graphic details for an everyday streetwear look.",
+      "image": "/images/anime charactor hoodie for merchandice.jpg"
+    },
+    {
+      "id": "merch-2",
+      "category": "tv",
+      "name": "Breaking Bad Logo Cap",
+      "price": 24.99,
+      "description": "A distressed black baseball cap featuring the iconic Breaking Bad periodic-table logo, made for a subtle TV-fandom look.",
+      "image": "/images/BB CAP FOR MERCHANDISE.jpg"
+    },
+    {
+      "id": "merch-3",
+      "category": "comics",
+      "name": "Doctor Doom Action Figure",
+      "price": 34.99,
+      "description": "A collectible Doctor Doom action figure inspired by the legendary Marvel villain, perfect for comic displays and collector shelves.",
+      "image": "/images/DR DOOM ACTION FIGURE FOR MERCHANDICE.jpg"
+    },
+    {
+      "id": "merch-4",
+      "category": "anime",
+      "name": "Dragon Ball Goku Action Figure",
+      "price": 39.99,
+      "description": "A dynamic Goku collectible figure inspired by Dragon Ball, designed for anime fans and display collections.",
+      "image": "/images/goku action figrure for merchandice.jpg"
+    },
+    {
+      "id": "merch-5",
+      "category": "gaming",
+      "name": "GTA VI Backpack",
+      "price": 42.99,
+      "description": "A gaming-inspired GTA VI backpack with a bold graphic design and practical everyday storage for fans on the go.",
+      "image": "/images/gta 6 backpack for merchandice.jpg"
+    },
+    {
+      "id": "merch-6",
+      "category": "movies",
+      "name": "Marvel The Avengers Poster",
+      "price": 18.99,
+      "description": "A classic Avengers movie poster featuring Iron Man, Captain America, Thor, Hulk and the original cinematic superhero team.",
+      "image": "/images/movie poster for merchandise.jpg"
+    },
+    {
+      "id": "merch-7",
+      "category": "kpop",
+      "name": "BLACKPINK The Game Mug",
+      "price": 16.99,
+      "description": "A BLACKPINK fan mug featuring The Game artwork and member graphics, ideal for a K-Pop desk or merchandise collection.",
+      "image": "/images/mug for merchandice.webp"
+    },
+    {
+      "id": "merch-8",
+      "category": "gaming",
+      "name": "GTA Vice City Tommy Vercetti T-Shirt",
+      "price": 27.99,
+      "description": "A GTA: Vice City inspired T-shirt featuring Tommy Vercetti artwork for fans of the iconic open-world gaming classic.",
+      "image": "/images/tommy vercetti t shirt for merchandice.jpg"
+    },
+    {
+      "id": "merch-9",
+      "category": "manga",
+      "name": "Solo Leveling Manga Collection",
+      "price": 89.99,
+      "description": "A Solo Leveling manga collection featuring multiple volumes from the hit action-fantasy series, ideal for manga readers and collectors.",
+      "image": "/images/solo leveling manga merchandice.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "gaming-t1",
+      "category": "gaming",
+      "title": "Grand Theft Auto VI — Trailer",
+      "status": "recent",
+      "image": "/images/gaming.jpg",
+      "video": "https://www.youtube.com/embed/QdBZY2fkU-0",
+      "youtubeId": "QdBZY2fkU-0",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "movies-t1",
+      "category": "movies",
+      "title": "Avengers: Doomsday — Special Look",
+      "status": "upcoming",
+      "image": "/images/film.jpg",
+      "video": "https://www.youtube.com/embed/X1aFkAkFASk",
+      "youtubeId": "X1aFkAkFASk",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "tv-t1",
+      "category": "tv",
+      "title": "Breaking Bad — Season 1 Trailer",
+      "status": "recent",
+      "image": "/images/tv show.jpg",
+      "video": "https://www.youtube.com/embed/HhesaQXLuRY",
+      "youtubeId": "HhesaQXLuRY",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "kpop-t1",
+      "category": "kpop",
+      "title": "K-Pops! — Trailer",
+      "status": "upcoming",
+      "image": "/images/k pop.jpg",
+      "video": "https://www.youtube.com/embed/idqmEVQIVaY",
+      "youtubeId": "idqmEVQIVaY",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "comics-t1",
+      "category": "comics",
+      "title": "Comic Universe — Featured Trailer",
+      "status": "recent",
+      "image": "/images/comic.jpg",
+      "video": "https://www.youtube.com/embed/DWH28Wxen6U",
+      "youtubeId": "DWH28Wxen6U",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "gaming-t3",
+      "category": "gaming",
+      "title": "Gaming Spotlight — Extra Preview",
+      "status": "recent",
+      "image": "/images/gaming.jpg",
+      "video": "https://www.youtube.com/embed/uHGShqcAHlQ",
+      "youtubeId": "uHGShqcAHlQ",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "movies-t4",
+      "category": "movies",
+      "title": "Movie Spotlight — Extra Preview",
+      "status": "recent",
+      "image": "/images/film.jpg",
+      "video": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "youtubeId": "TcMBFSGVi1c",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "tv-t5",
+      "category": "tv",
+      "title": "TV Spotlight — Extra Preview",
+      "status": "recent",
+      "image": "/images/tv show.jpg",
+      "video": "https://www.youtube.com/embed/ndl1W4ltcmg",
+      "youtubeId": "ndl1W4ltcmg",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "kpop-t6",
+      "category": "kpop",
+      "title": "BTS Dynamite — Choreography Version",
+      "status": "recent",
+      "image": "/images/k pop.jpg",
+      "video": "https://www.youtube.com/embed/BflFNMl_UWY",
+      "youtubeId": "BflFNMl_UWY",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "comics-t7",
+      "category": "comics",
+      "title": "Comic Spotlight — Extra Preview",
+      "status": "recent",
+      "image": "/images/comic.jpg",
+      "video": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "youtubeId": "TcMBFSGVi1c",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "anime-t1",
+      "category": "anime",
+      "title": "Anime Feature Video 1",
+      "status": "recent",
+      "image": "/images/anime.jpg",
+      "video": "https://www.youtube.com/embed/nLbmi57QzXM",
+      "youtubeId": "nLbmi57QzXM",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "anime-t2",
+      "category": "anime",
+      "title": "Anime Feature Video 2",
+      "status": "recent",
+      "image": "/images/anime.jpg",
+      "video": "https://www.youtube.com/embed/3Gmo0EXHyKg",
+      "youtubeId": "3Gmo0EXHyKg",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "anime-t3",
+      "category": "anime",
+      "title": "Anime Feature Video 3",
+      "status": "recent",
+      "image": "/images/anime.jpg",
+      "video": "https://www.youtube.com/embed/x7uLutVRBfI",
+      "youtubeId": "x7uLutVRBfI",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "movies-t5",
+      "category": "movies",
+      "title": "Movies — Featured Video",
+      "status": "recent",
+      "image": "/images/film.jpg",
+      "video": "https://www.youtube.com/embed/FUZhEp7Inhc",
+      "youtubeId": "FUZhEp7Inhc",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "tv-t6",
+      "category": "tv",
+      "title": "TV Shows — Featured Video",
+      "status": "recent",
+      "image": "/images/tv show.jpg",
+      "video": "https://www.youtube.com/embed/KPLWWIOCOOQ",
+      "youtubeId": "KPLWWIOCOOQ",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "kpop-new1",
+      "category": "kpop",
+      "title": "BTS Dynamite — Dance Break Practice",
+      "status": "recent",
+      "image": "/images/k pop.jpg",
+      "video": "https://www.youtube.com/embed/uBZXCkwCKxw",
+      "youtubeId": "uBZXCkwCKxw",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "comics-t3",
+      "category": "comics",
+      "title": "San Diego Comic-Con 2025 — Animation Panel",
+      "status": "recent",
+      "image": "/images/comic.jpg",
+      "video": "https://www.youtube.com/embed/ipSEFpZXmA8",
+      "youtubeId": "ipSEFpZXmA8",
+      "mediaType": "Trailer"
+    },
+    {
+      "id": "manga-t1",
+      "category": "manga",
+      "title": "Making Black & White Illustrations Look More Manga-Like",
+      "status": "recent",
+      "image": "/images/manga.jpg",
+      "video": "https://www.youtube.com/embed/kaK0S0KYHf0",
+      "youtubeId": "kaK0S0KYHf0",
+      "mediaType": "Fan Content"
+    },
+    {
+      "id": "manga-t2",
+      "category": "manga",
+      "title": "Drawing Manga with a Dip Pen — Manga Ink Process",
+      "status": "recent",
+      "image": "/images/manga.jpg",
+      "video": "https://www.youtube.com/embed/6I5tfK1Xjf0",
+      "youtubeId": "6I5tfK1Xjf0",
+      "mediaType": "Fan Content"
+    },
+    {
+      "id": "manga-t3",
+      "category": "manga",
+      "title": "Create a Black & White Manga / Comic Page",
+      "status": "recent",
+      "image": "/images/manga.jpg",
+      "video": "https://www.youtube.com/embed/BSwf4PlcEW0",
+      "youtubeId": "BSwf4PlcEW0",
+      "mediaType": "Fan Content"
+    }
+  ],
+  "galleries": [
+    {
+      "id": "movies-g1",
+      "category": "movies",
+      "title": "Indiana Jones",
+      "image": "/images/Indiana Jones.jpg"
+    },
+    {
+      "id": "movies-g2",
+      "category": "movies",
+      "title": "James Bond",
+      "image": "/images/james bond.jpg"
+    },
+    {
+      "id": "movies-g3",
+      "category": "movies",
+      "title": "Neo",
+      "image": "/images/neo.jpg"
+    },
+    {
+      "id": "tv-g1",
+      "category": "tv",
+      "title": "Walter White",
+      "image": "/images/walter white for tv show.jpg"
+    },
+    {
+      "id": "tv-g2",
+      "category": "tv",
+      "title": "Jon Snow",
+      "image": "/images/Jon Snow for tv show.jpg"
+    },
+    {
+      "id": "tv-g3",
+      "category": "tv",
+      "title": "Tyrion Lannister",
+      "image": "/images/Tyrion Lannister for tv show.jpg"
+    },
+    {
+      "id": "anime-g1",
+      "category": "anime",
+      "title": "Naruto Uzumaki",
+      "image": "/images/naruto.jpg"
+    },
+    {
+      "id": "anime-g2",
+      "category": "anime",
+      "title": "Monkey D. Luffy",
+      "image": "/images/monkey di lofi Character.webp"
+    },
+    {
+      "id": "anime-g3",
+      "category": "anime",
+      "title": "Goku",
+      "image": "/images/goku.jpg"
+    },
+    {
+      "id": "anime-g4",
+      "category": "anime",
+      "title": "Levi Ackerman",
+      "image": "/images/Levi Ackerman.webp"
+    },
+    {
+      "id": "anime-g5",
+      "category": "anime",
+      "title": "Lelouch Lamperouge",
+      "image": "/images/Lelouch Lamperouge.jpg"
+    },
+    {
+      "id": "gaming-g1",
+      "category": "gaming",
+      "title": "Kratos — God of War",
+      "image": "/images/kratos.jpg"
+    },
+    {
+      "id": "gaming-g2",
+      "category": "gaming",
+      "title": "Mario — Super Mario",
+      "image": "/images/mario.jpg"
+    },
+    {
+      "id": "gaming-g3",
+      "category": "gaming",
+      "title": "Master Chief — Halo",
+      "image": "/images/master chief.jpg"
+    },
+    {
+      "id": "gaming-g4",
+      "category": "gaming",
+      "title": "Lara Croft — Tomb Raider",
+      "image": "/images/Lara Croft.jpg"
+    },
+    {
+      "id": "gaming-g5",
+      "category": "gaming",
+      "title": "Tommy Vercetti — Vice City",
+      "image": "/images/tommy vercetti.jpg"
+    },
+    {
+      "id": "movies-g4",
+      "category": "movies",
+      "title": "Tyler Durden & The Narrator",
+      "image": "/images/tyler durden and narrator.jpg"
+    },
+    {
+      "id": "movies-g5",
+      "category": "movies",
+      "title": "Moonlight",
+      "image": "/images/moon light.jpg"
+    },
+    {
+      "id": "tv-g4",
+      "category": "tv",
+      "title": "Patrick Jane",
+      "image": "/images/Patrick Jane for tv show.jpg"
+    },
+    {
+      "id": "tv-g5",
+      "category": "tv",
+      "title": "Sherlock Holmes",
+      "image": "/images/Sherlock Holmes for tv show.jpg"
+    },
+    {
+      "id": "kpop-g1",
+      "category": "kpop",
+      "title": "Jennie",
+      "image": "/images/Jennie for k pop.webp"
+    },
+    {
+      "id": "kpop-g2",
+      "category": "kpop",
+      "title": "Jungkook",
+      "image": "/images/Jungkook fot k pop.webp"
+    },
+    {
+      "id": "kpop-g3",
+      "category": "kpop",
+      "title": "G-Dragon",
+      "image": "/images/G-Dragon for k pop.webp"
+    },
+    {
+      "id": "kpop-g4",
+      "category": "kpop",
+      "title": "Jimin",
+      "image": "/images/Jimin for k pop.webp"
+    },
+    {
+      "id": "kpop-g5",
+      "category": "kpop",
+      "title": "Lisa",
+      "image": "/images/Lisa for k pop.webp"
+    },
+    {
+      "id": "comics-g1",
+      "category": "comics",
+      "title": "Superman",
+      "image": "/images/SUPERMAN FOR COMIC.jpg"
+    },
+    {
+      "id": "comics-g2",
+      "category": "comics",
+      "title": "Batman",
+      "image": "/images/BATMAN FOR COMIC.webp"
+    },
+    {
+      "id": "comics-g3",
+      "category": "comics",
+      "title": "Captain America",
+      "image": "/images/CAPTIAN AMERICA FOR COMIC.webp"
+    },
+    {
+      "id": "comics-g4",
+      "category": "comics",
+      "title": "The Flash",
+      "image": "/images/FLASH FOR COMIC.webp"
+    },
+    {
+      "id": "comics-g5",
+      "category": "comics",
+      "title": "Comic Hero Spotlight",
+      "image": "/images/FOR COMIC.jpg"
+    },
+    {
+      "id": "manga-g1",
+      "category": "manga",
+      "title": "Eren Yeager — Attack on Titan",
+      "image": "/images/Eren Yeager FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-g2",
+      "category": "manga",
+      "title": "Light Yagami — Death Note",
+      "image": "/images/Light Yagami FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-g3",
+      "category": "manga",
+      "title": "Saitama — One-Punch Man",
+      "image": "/images/SATAIMA FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-g4",
+      "category": "manga",
+      "title": "Gon Freecss — Hunter × Hunter",
+      "image": "/images/Gon Freecss FOR MANGA.jpg"
+    },
+    {
+      "id": "manga-g5",
+      "category": "manga",
+      "title": "Ichigo Kurosaki — Bleach",
+      "image": "/images/Ichigo Kurosaki FOR MANGA.jpg"
+    }
+  ],
+  "audio": [
+    {
+      "id": "anime-au1",
+      "category": "anime",
+      "title": "Anime Pulse — Chained Magical Girls",
+      "description": "Hosted by Joseph and Andrew, Anime Pulse mixes anime industry news with weekly reviews and fan-focused discussion. This episode moves from current anime news into the hosts’ latest series reviews.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/animepulse/Episode960.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "anime-au2",
+      "category": "anime",
+      "title": "Anime Pulse — Campfire-banashi",
+      "description": "Anime Pulse hosts Joseph and Andrew bring their usual mix of anime news, personal updates and review-driven conversation, giving fans a relaxed weekly catch-up on the medium.",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/animepulse/Episode958.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "gaming-au1",
+      "category": "gaming",
+      "title": "VG Pulse 437 — All Digital Future",
+      "description": "Video Game Pulse is hosted by Nick, Akito Silver and Kas. This episode covers Sony, Xbox, industry news and community discussion, with the hosts trading opinions on the week’s biggest gaming topics.",
+      "audioUrl": "https://traffic.libsyn.com/secure/animepulse/vgp437discordfinal.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "gaming-au2",
+      "category": "gaming",
+      "title": "VG Pulse 436 — Rocky Sequilitis",
+      "description": "Hosted by the Video Game Pulse team — Nick, Akito Silver and Kas — this episode blends gaming news, reactions and conversational commentary for players following the wider games industry.",
+      "audioUrl": "https://traffic.libsyn.com/secure/animepulse/vgp436discordfinal.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "movies-au1",
+      "category": "movies",
+      "title": "Popcorn Pulse 270 — Mental Vengeance",
+      "description": "Popcorn Pulse is led by Weltall and Tim the Enchanter. In this episode they review Vengeance: A Love Story, The Mentalist and There’s Nothing Out There, mixing film criticism with their conversational style.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/PCP_270.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "movies-au2",
+      "category": "movies",
+      "title": "Popcorn Pulse 268 — The Johnny Bucket",
+      "description": "Weltall and Tim the Enchanter host this Popcorn Pulse episode, discussing Mortdecai, Dragonfly and The Bucket List while comparing performances, stories and what worked — or did not — for them.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/PCP_268.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "tv-au1",
+      "category": "tv",
+      "title": "Popcorn Pulse 270 — The Mentalist Discussion",
+      "description": "Hosts Weltall and Tim the Enchanter move between movies and television in this Popcorn Pulse episode. Weltall discusses The Mentalist alongside the pair’s broader screen reviews and commentary.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/PCP_270.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "tv-au2",
+      "category": "tv",
+      "title": "Popcorn Pulse 267 — Citizen Offer",
+      "description": "A screen-entertainment discussion from Popcorn Pulse with hosts Weltall and Tim the Enchanter, combining conversational reviews with their reactions to the shows and films featured in the episode.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/PCP_267.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "kpop-au1",
+      "category": "kpop",
+      "title": "Fan Culture Audio — Pop Culture Talk",
+      "description": "A pop-culture conversation from the Anime Pulse network, hosted by Joseph and Andrew. The episode mixes entertainment talk, community topics and the hosts’ personal reactions for fans who enjoy wider Asian pop culture.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/Episode952.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "kpop-au2",
+      "category": "kpop",
+      "title": "Fan Culture Audio — Community Discussion",
+      "description": "Hosted by Joseph and Andrew, this fan-focused episode combines community conversation, entertainment news and personal commentary in the informal style of the Anime Pulse network.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/Episode948.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "comics-au1",
+      "category": "comics",
+      "title": "San Diego Comic-Con — Day 1 Recap",
+      "description": "An Anime Pulse special recorded around San Diego Comic-Con, capturing convention-floor impressions, fandom conversation and highlights from the first day of the event.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/San_Diego_Comic_Con_2011_Day_1.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "comics-au2",
+      "category": "comics",
+      "title": "San Diego Comic-Con — Day 2 Recap",
+      "description": "The Anime Pulse team continues its San Diego Comic-Con coverage with more convention discussion, fan impressions and highlights from the second day on the show floor.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/San_Diego_Comic_Con_2011_Day_2.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "manga-au1",
+      "category": "manga",
+      "title": "Manga Pulse 566 — Which Manga Is This Again?",
+      "description": "Manga Pulse hosts Weltall and Tim the Enchanter review and discuss manga with their usual back-and-forth commentary, focusing on story choices, artwork and the reading experience.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/Manga_Pulse566.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    },
+    {
+      "id": "manga-au2",
+      "category": "manga",
+      "title": "Manga Pulse 565 — Kurosagi’s Punishment",
+      "description": "Hosted by Weltall and Tim the Enchanter, this Manga Pulse episode delivers manga reviews, reactions and detailed discussion from two long-running voices on the Anime Pulse network.",
+      "audioUrl": "https://traffic.libsyn.com/animepulse/Manga_Pulse565.mp3",
+      "source": "Anime Pulse",
+      "mediaType": "Podcast"
+    }
+  ],
+  "releases": [
+    {
+      "id": "rel-anime",
+      "category": "anime",
+      "title": "Anime Universe — Next Watch",
+      "date": "Release date not verified",
+      "image": "/images/anime.jpg",
+      "description": "Trailer-linked fandom watch card. No unverified release date is shown."
+    },
+    {
+      "id": "rel-gaming",
+      "category": "gaming",
+      "title": "Grand Theft Auto VI",
+      "date": "November 19, 2026",
+      "image": "/images/gaming.jpg",
+      "description": "Rockstar Games lists Grand Theft Auto VI for release on November 19, 2026.",
+      "source": "https://www.rockstargames.com/VI"
+    },
+    {
+      "id": "rel-movies",
+      "category": "movies",
+      "title": "Avengers: Doomsday",
+      "date": "December 18, 2026",
+      "image": "/images/film.jpg",
+      "description": "Release radar entry tied to the featured Avengers: Doomsday special-look trailer."
+    },
+    {
+      "id": "rel-tv",
+      "category": "tv",
+      "title": "TV Show Universe — Upcoming Season",
+      "date": "Release date not verified",
+      "image": "/images/tv show.jpg",
+      "description": "Trailer-linked fandom watch card. No unverified release date is shown."
+    },
+    {
+      "id": "rel-kpop",
+      "category": "kpop",
+      "title": "K-Pop Universe — Upcoming Drop",
+      "date": "Release date not verified",
+      "image": "/images/k pop.jpg",
+      "description": "Trailer-linked fandom watch card. No unverified release date is shown."
+    },
+    {
+      "id": "rel-comics",
+      "category": "comics",
+      "title": "Comic Universe — Upcoming Story",
+      "date": "Release date not verified",
+      "image": "/images/comic.jpg",
+      "description": "Trailer-linked fandom watch card. No unverified release date is shown."
+    },
+    {
+      "id": "rel-manga",
+      "category": "manga",
+      "title": "Dandadan, Vol. 22",
+      "date": "December 2026",
+      "image": "/images/manga.jpg",
+      "description": "VIZ lists Dandadan, Vol. 22 on its December 2026 manga release calendar.",
+      "source": "https://www.viz.com/calendar/2026/12"
+    }
+  ]
+}
